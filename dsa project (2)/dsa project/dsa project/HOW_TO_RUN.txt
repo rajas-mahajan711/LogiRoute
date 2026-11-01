@@ -1,0 +1,30 @@
+=======================================================================
+               LOGIROUTE AI: WAREHOUSE ROBOT PATH PLANNER
+=======================================================================
+
+Prerequisites:
+  - Node.js (version 18+ recommended): https://nodejs.org/
+  - Optional: MinGW / GCC (for C++ engine; pure JS fallback works automatically if missing)
+
+-----------------------------------------------------------------------
+HOW TO RUN:
+-----------------------------------------------------------------------
+
+METHOD 1 (One-Click - Recommended):
+  1. Simply double-click "start.bat".
+  2. It will automatically install packages, start the services, and open your browser!
+  3. Visualizer opens at: http://localhost:5173
+
+METHOD 2 (Manual Terminal):
+  1. Open terminal in this folder.
+  2. Install & start Backend:
+       cd backend
+       npm install
+       npm start
+  3. In a second terminal, install & start Frontend:
+       cd frontend
+       npm install
+       npm run dev
+  4. Open http://localhost:5173 in your browser.
+
+Enjoy testing and benchmarking the path planning algorithms!

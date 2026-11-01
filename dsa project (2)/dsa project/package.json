@@ -1,0 +1,10 @@
+{
+  "name": "logiroute-ai-dsa-project",
+  "version": "1.0.0",
+  "description": "LogiRoute AI: Warehouse Robot Path Planner (C++ DSA + React + Express)",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix \"dsa project/frontend\" run dev",
+    "start": "start.bat"
+  }
+}

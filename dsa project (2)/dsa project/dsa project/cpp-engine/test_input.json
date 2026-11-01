@@ -1,0 +1,9 @@
+{
+  "rows": 10,
+  "cols": 10,
+  "dock": [0, 0],
+  "dropoff": [9, 9],
+  "shelves": [[2, 3], [5, 8], [8, 2]],
+  "obstacles": [[3, 3], [3, 4], [4, 3], [4, 4]],
+  "algorithm": "compare_all"
+}
